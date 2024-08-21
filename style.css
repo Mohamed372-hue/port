@@ -335,6 +335,8 @@ section {
 
 .article-container {
   display: flex;
+  height: 400px;
+
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
